@@ -1,0 +1,155 @@
+154
+2 0 1166 c fish
+2 3 1166 f
+2 5 3082 s beef
+1 5 3082 c lettuce
+1 8 3082 c tomato
+1 11 3082 f
+2 25 1915 c orange
+1 28 1915 c peach
+2 31 1915 c grape
+2 34 1915 f
+1 31 168 s dough
+2 36 168 s egg
+1 36 168 c strawberry
+2 41 168 f
+2 46 3214 s dough
+1 46 3214 c tomato
+1 49 3214 c cheese
+1 52 3214 f
+2 51 2524 s beef
+1 53 2524 c lettuce
+2 56 2524 c tomato
+2 59 2524 f
+1 56 2846 s beef
+1 61 2846 c pineapple
+1 64 2846 f
+2 62 536 s water
+2 67 536 s egg
+1 67 536 c corn
+2 72 536 f
+1 72 207 s potato
+1 77 207 f
+2 77 1806 s beef
+1 78 1806 c tomato
+1 81 1806 c mushroom
+1 84 1806 f
+2 82 349 s dough
+1 87 349 s egg
+2 87 349 c strawberry
+1 92 349 f
+2 92 3327 s dough
+1 94 3327 c tomato
+2 97 3327 c cheese
+2 100 3327 f
+1 98 2161 s beef
+2 101 2161 c lettuce
+1 104 2161 c tomato
+1 107 2161 f
+2 109 1678 s dough
+1 110 1678 c tomato
+1 113 1678 c cheese
+1 116 1678 f
+2 114 2451 s potato
+2 119 2451 f
+1 119 2140 s potato
+1 124 2140 f
+2 124 2861 s beef
+1 125 2861 c lettuce
+1 128 2861 c tomato
+1 131 2861 f
+2 129 4181 s dough
+2 134 4181 c tomato
+1 137 4181 c cheese
+1 140 4181 f
+2 140 3988 c orange
+1 143 3988 c peach
+2 146 3988 c grape
+2 149 3988 f
+1 146 804 s beef
+2 150 804 c tomato
+1 153 804 c mushroom
+1 156 804 f
+2 156 3475 c fish
+2 159 3475 f
+1 157 2022 s dough
+2 162 2022 s egg
+1 162 2022 c strawberry
+2 167 2022 f
+2 185 2714 s dough
+1 190 2714 s egg
+2 190 2714 c chocolate
+1 195 2714 f
+2 193 3272 c fish
+1 197 3272 f
+2 203 3461 s dough
+1 203 3461 c tomato
+1 206 3461 c cheese
+1 209 3461 f
+2 208 1266 s beef
+1 210 1266 c lettuce
+2 213 1266 c tomato
+2 216 1266 f
+2 252 416 s potato
+2 257 416 f
+1 257 1920 s dough
+2 258 1920 c tomato
+2 261 1920 c cheese
+2 264 1920 f
+1 262 1068 s potato
+1 267 1068 f
+2 265 442 c orange
+2 268 442 c peach
+1 271 442 c grape
+1 274 442 f
+2 271 4575 s beef
+1 275 4575 c pineapple
+1 278 4575 f
+2 276 891 s water
+2 281 891 s egg
+1 281 891 c corn
+2 286 891 f
+1 286 3467 s beef
+2 287 3467 c tomato
+2 290 3467 c mushroom
+2 293 3467 f
+2 298 1138 s dough
+1 298 1138 c tomato
+1 301 1138 c cheese
+1 304 1138 f
+2 303 3172 s dough
+1 308 3172 s egg
+2 308 3172 c strawberry
+1 313 3172 f
+2 313 3233 s beef
+1 315 3233 c pineapple
+1 318 3233 f
+2 318 4724 s dough
+1 323 4724 s egg
+2 323 4724 c chocolate
+1 328 4724 f
+2 328 3639 s potato
+2 333 3639 f
+1 333 2075 s dough
+2 338 2075 s egg
+1 338 2075 c strawberry
+2 343 2075 f
+1 343 1573 s beef
+2 345 1573 c pineapple
+1 348 1573 f
+2 348 546 c orange
+2 351 546 c peach
+1 354 546 c grape
+1 357 546 f
+2 357 574 c orange
+1 360 574 c peach
+2 363 574 c grape
+2 366 574 f
+1 363 4553 s potato
+1 368 4553 f
+2 367 1539 c fish
+2 370 1539 f
+1 369 2937 s dough
+2 374 2937 s egg
+1 374 2937 c strawberry
+2 379 2937 f

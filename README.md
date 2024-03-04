@@ -1,2 +1,2 @@
 # DataStructure2
- SHOOTUP
+ learning data structure
